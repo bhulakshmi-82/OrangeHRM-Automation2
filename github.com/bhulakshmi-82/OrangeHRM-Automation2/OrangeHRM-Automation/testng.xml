@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="MilestoneSuite">
+
+    <test name="LoginTests">
+        <classes>
+            <class name="TaskOfMileStone7.LoginTest"/>
+        </classes>
+    </test>
+
+</suite>
