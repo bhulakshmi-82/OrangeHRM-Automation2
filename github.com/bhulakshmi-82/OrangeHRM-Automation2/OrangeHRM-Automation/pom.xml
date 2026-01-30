@@ -30,12 +30,6 @@
 </dependency>
 
         
-          <dependency>
-        	<groupId>001</groupId>
-        	<artifactId>APITesting</artifactId>
-        	<version>0.0.1-SNAPSHOT</version>
-        </dependency>
-  </dependencies>
 
 <build>
     <plugins>
@@ -55,4 +49,5 @@
     </plugins>
   </build>
   
+
 </project>
